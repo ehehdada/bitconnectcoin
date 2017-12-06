@@ -41,4 +41,5 @@ docker run \
 
 ## Donations
 
+* Bitconnect coin address `8HudVnKaQTu7T5bXCrogHSEVHoPa28RLBX`
 * Peercoin address `PEkmXcgL4wWb2mSZiLXr5cMfRKvpFY1kaA`
